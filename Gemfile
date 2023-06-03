@@ -14,3 +14,4 @@ gem "m"
 # gem "standard-performance", path: "../standard-performance"
 
 gem "simplecov"
+gem "ruby-prof"
